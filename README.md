@@ -1,1 +1,1 @@
-# steam_analysis_project
+# earthquake_analysis_project
